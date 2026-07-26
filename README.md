@@ -109,31 +109,7 @@
 
 ---
 
-## ⏱️ The Grind (Live Coding Hours)
-
-*Tracking every exact second I spend deep in Python and Java architectures.*
-
-<p align="center">
-  <a href="https://wakatime.com">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?api_domain=wakatime.com&username=YOUR_WAKATIME_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Wakatime Stats" />
-  </a>
-</p>
-
----
-
-## 🎵 Vibe Check (Currently Playing)
-
-*If I'm coding, I'm listening. Here is my live Spotify status.*
-
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=tokyonight&show_offline=true&background_color=0D1117&interchange=true" alt="Spotify Live Status" />
-  </a>
-</p>
-
----
-
-## 🤖 Terminal Output / Dev Joke
+# 🤖 Terminal Output / Dev Joke
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" />
