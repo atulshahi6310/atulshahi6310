@@ -18,20 +18,7 @@
 - ⚡ **Core Philosophy:** Whether it's writing deep Java DSA, containerizing with Docker, or training neural networks, I build systems that actually scale.
 
 ---
----
 
-## 🏆 Top Projects
-
-<p align="center">
-  <a href="https://github.com/atulshahi6310/DSA-with-JAVA.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atulshahi6310&repo=YOUR_BEST_REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Pinned Repo 1" />
-  </a>
-  <a href="https://github.com/atulshahi6310/SentiAI.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atulshahi6310&repo=YOUR_BEST_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Pinned Repo 2" />
-  </a>
-</p>
-
----
 ## 🛠️ The Arsenal (Tech Stack)
 
 ### 💻 Core Languages & DSA
